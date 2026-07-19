@@ -828,6 +828,3 @@ AI学习能力
 CFDT Trader OS:
 
 > Build your own trading intelligence system.
-```
-
-这份 README 可以作为后续 **GitHub 项目主页、书籍序言、CFDT Trader OS 产品介绍页** 的基础版本。
