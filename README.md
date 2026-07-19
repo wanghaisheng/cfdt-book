@@ -1,7 +1,3 @@
-# cfdt-book
-一本 ai 辅助投资的书
-
-
 # CFDT Trader OS
 
 ## AI驱动的个人交易操作系统
